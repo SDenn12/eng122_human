@@ -18,4 +18,5 @@ class Boy(Male):
         return "wow this book is so cool. "
 
 
-# h4 = Boy("Sam","311000","33","Scargill")
+h4 = Boy("Sam","311000","33","Scargill")
+print(h4.prefix)

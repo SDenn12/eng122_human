@@ -16,5 +16,5 @@ class Human:
         return "slurp"
 
 
-# h1 = Human("Sam", "311000", "33")
-# print(h1.sleep())
+h1 = Human("Sam", "311000", "33")
+print(h1.sleep())

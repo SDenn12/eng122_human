@@ -22,10 +22,13 @@ class Woman(Human):
 # creates object
 # h3 = Woman("Sam","311000","33")
 #
+# # tries to call the attribute
 # try:
 #     print(h3.__estrogen)
 # except AttributeError:
 #     print("That information is private.")
+#
+
 
 # print(h3.play_female_sport())
 # print(h3.eat())
